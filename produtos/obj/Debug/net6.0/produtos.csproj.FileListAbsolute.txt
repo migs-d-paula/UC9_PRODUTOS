@@ -1,0 +1,15 @@
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.csproj.AssemblyReference.cache
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.AssemblyInfoInputs.cache
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.AssemblyInfo.cs
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\produtos.exe
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\produtos.deps.json
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\produtos.runtimeconfig.json
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\produtos.dll
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\ref\produtos.dll
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\bin\Debug\net6.0\produtos.pdb
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.dll
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\ref\produtos.dll
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.pdb
+C:\Users\miguel.pveloso\source\repos\produtos\produtos\obj\Debug\net6.0\produtos.genruntimeconfig.cache
